@@ -55,8 +55,8 @@ Make sure the following are in your pubspec.yaml:
   intl: ^0.18.1
 ```
 
-✍️ Author
-Vedant Mali
+##✍️ Author
+Vedant Mali,
 Sahil Andhare
 
 ---
