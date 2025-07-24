@@ -58,6 +58,7 @@ Make sure the following are in your pubspec.yaml:
 ## ✍️ Author
 Vedant Mali,
 Sahil Andhare
+Vedant Naidu
 
 ---
 Feel free to contribute or report issues. Star ⭐ the repo if you find it useful!
