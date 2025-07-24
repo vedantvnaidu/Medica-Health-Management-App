@@ -57,7 +57,7 @@ Make sure the following are in your pubspec.yaml:
 
 ## ✍️ Author
 Vedant Mali,
-Sahil Andhare
+Sahil Andhare,
 Vedant Naidu
 
 ---
